@@ -1,0 +1,15 @@
+/home/esborton/Escritorio/Álvaro/TRSF/ejerciciossep2024/ej_2024.09.25_02/bin/Debug/net8.0/ej_2024.09.25_02
+/home/esborton/Escritorio/Álvaro/TRSF/ejerciciossep2024/ej_2024.09.25_02/bin/Debug/net8.0/ej_2024.09.25_02.deps.json
+/home/esborton/Escritorio/Álvaro/TRSF/ejerciciossep2024/ej_2024.09.25_02/bin/Debug/net8.0/ej_2024.09.25_02.runtimeconfig.json
+/home/esborton/Escritorio/Álvaro/TRSF/ejerciciossep2024/ej_2024.09.25_02/bin/Debug/net8.0/ej_2024.09.25_02.dll
+/home/esborton/Escritorio/Álvaro/TRSF/ejerciciossep2024/ej_2024.09.25_02/bin/Debug/net8.0/ej_2024.09.25_02.pdb
+/home/esborton/Escritorio/Álvaro/TRSF/ejerciciossep2024/ej_2024.09.25_02/obj/Debug/net8.0/ej_2024.09.25_02.GeneratedMSBuildEditorConfig.editorconfig
+/home/esborton/Escritorio/Álvaro/TRSF/ejerciciossep2024/ej_2024.09.25_02/obj/Debug/net8.0/ej_2024.09.25_02.AssemblyInfoInputs.cache
+/home/esborton/Escritorio/Álvaro/TRSF/ejerciciossep2024/ej_2024.09.25_02/obj/Debug/net8.0/ej_2024.09.25_02.AssemblyInfo.cs
+/home/esborton/Escritorio/Álvaro/TRSF/ejerciciossep2024/ej_2024.09.25_02/obj/Debug/net8.0/ej_2024.09.25_02.csproj.CoreCompileInputs.cache
+/home/esborton/Escritorio/Álvaro/TRSF/ejerciciossep2024/ej_2024.09.25_02/obj/Debug/net8.0/ej_2024.09.25_02.sourcelink.json
+/home/esborton/Escritorio/Álvaro/TRSF/ejerciciossep2024/ej_2024.09.25_02/obj/Debug/net8.0/ej_2024.09.25_02.dll
+/home/esborton/Escritorio/Álvaro/TRSF/ejerciciossep2024/ej_2024.09.25_02/obj/Debug/net8.0/refint/ej_2024.09.25_02.dll
+/home/esborton/Escritorio/Álvaro/TRSF/ejerciciossep2024/ej_2024.09.25_02/obj/Debug/net8.0/ej_2024.09.25_02.pdb
+/home/esborton/Escritorio/Álvaro/TRSF/ejerciciossep2024/ej_2024.09.25_02/obj/Debug/net8.0/ej_2024.09.25_02.genruntimeconfig.cache
+/home/esborton/Escritorio/Álvaro/TRSF/ejerciciossep2024/ej_2024.09.25_02/obj/Debug/net8.0/ref/ej_2024.09.25_02.dll
